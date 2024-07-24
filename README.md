@@ -8,4 +8,10 @@ To install any of the themes provided here just download (or copy-paste) file wi
 ~/.oh-my-zsh/themes
 ```
 
+Then in the .zshrc set new current theme (youngling-coder-modern-theme.zsh-theme in my case)
+
+```bash
+ZSH_THEME="youngling-coder-modern-theme"
+```
+
 Enjoy your terminal!🎀
